@@ -17,6 +17,12 @@
 Несколько проектов будут добавлены позже.
 
 
+<h2>Контакты</h2>
+<ul>
+  <li><a href="https://t.me/iannsgirdye">Telegram</a></li>
+  <li><a href="https://vk.com/iannsgirdye">VK</a></li>
+</ul>
+
 
 
 <!--
