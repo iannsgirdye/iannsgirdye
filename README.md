@@ -2,9 +2,14 @@
 
 
 <h2>Репозитории</h2>
+<h3>🧸 Собственные проекты</h3>
+<ui>
+  <li><a href="https://github.com/iannsgirdye/mai_library">Сборник файлов и ресурсов для студентов МАИ</a></li>
+  <li>Telegram-бот для анализа привычек <i>(скоро)</i></li>
+</ui>
+
 <h3>📖 Образовательные курсы</h3>
 <ul>
-  <li><a href="https://github.com/iannsgirdye/mai_library">Сборник файлов и ресурсов для студентов МАИ</a></li>
   <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
   <li><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов" от "Яндекс Образования"</a></li>
   <li><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих" от МФТИ на Stepik</a></li>
@@ -15,9 +20,6 @@
   <li><a href="https://github.com/iannsgirdye/leetcode">LeetCode</a></li>
   <li><a href="https://github.com/iannsgirdye/yandex_coderun">Coderun</a></li>
 </ul>
-
-<h3>🧸 Собственные проекты</h3>
-Несколько проектов будут добавлены позже.
 
 
 <h2>Контакты</h2>
