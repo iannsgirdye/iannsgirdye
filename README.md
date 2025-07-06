@@ -6,6 +6,7 @@
     <ul>
       <li><a href="https://github.com/the-tender-team/tender-parsing">Веб-сервис парсинга и анализа проблемных тендеров на сайтах госзакупок</a></li>
       <li><a href="https://github.com/iannsgirdye/mai_library">Сборник файлов и ресурсов для всех причастных к МАИ</a></li>
+      <li><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">Бронирование аудиторий на IT-этаже МАИ</a>
       <li><a href="https://github.com/iannsgirdye/mai_med-bot">Telegram-бот для анализа привычек</a> <i>(пока что скрыт)</i></li>
       <li><a href="https://github.com/iannsgirdye/frontend">Самообразование по frontend-разработке</li>
     </ul>
