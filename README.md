@@ -14,7 +14,6 @@
   <article>
     <h3>📖 Образовательные курсы</h3>
     <ul>
-      <li><a href="https://github.com/iannsgirdye/frontend">Самообразование по frontend-разработке</a></li>
       <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
       <li><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов" от "Яндекс Образования"</a></li>
       <li><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих" от МФТИ на Stepik</a></li>
