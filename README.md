@@ -8,7 +8,7 @@
       <li><a href="https://github.com/iannsgirdye/mai_library">Веб-сервис сборника материалов для всех причастных к МАИ</a></li>
       <li><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">Веб-сервис бронирования аудиторий на IT-этаже МАИ</a>
       <li><a href="https://github.com/iannsgirdye/mai_med-bot">Telegram-бот для анализа привычек</a> <i>(пока что скрыт)</i></li>
-      <li><a href="https://github.com/iannsgirdye/frontend">Самообразование по frontend-разработке</li>
+      <li><a href="https://github.com/iannsgirdye/frontend">Проекты для самообразования по frontend-разработке</li>
     </ul>
   </article>
   <article>
