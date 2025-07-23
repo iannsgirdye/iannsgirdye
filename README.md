@@ -16,7 +16,7 @@
       <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
       <li><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов" от "Яндекс Образования"</a></li>
       <li><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих" от МФТИ на Stepik</a></li>
-      <li><a href="https://github.com/iannsgirdye/yandex_cpp">Хендбук "Основы C++" от "Яндекс Образования"</a> <i>(в планах)</i></li>
+      <li><a href="https://github.com/iannsgirdye/yandex_cpp">Хендбук "Основы C++" от "Яндекс Образования"</a></li>
     </ul>
   </article>
   <article>
