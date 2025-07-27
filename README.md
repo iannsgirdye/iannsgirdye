@@ -89,13 +89,13 @@
     </article>
   </section>
   <br/>
-  <section>
+  <section align="center">
     <h2>Контакты</h2>
-    <p aligh="left">
+    <div>
       <a href="https://t.me/iannsgirdye" target="_blank"><img src="./icons/contacts/telegram.svg" alt="Telegram" title="Telegram" height="50" width="50"/></a>
       &nbsp;
       <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
-    </p>
+    </div>
   </section>
   <br/>
   <section align="center">
