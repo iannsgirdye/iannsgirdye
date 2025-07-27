@@ -11,6 +11,13 @@
     </p>
   </section>
   <section>
+    <h2>Инструменты</h2>
+    <p align="left">
+      <a href="https://www.figma.com/"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50" width="50"/></a>
+    </p>
+  </section>
+  <section>
     <h2>Репозитории</h2>
     <article>
       <h3>🧸 Собственные проекты</h3>
