@@ -6,8 +6,8 @@
   <section>
     <h2>Технологии</h2>
     <p align="left">
-      <a href="https://github.com/iannsgirdye"><img src="./images/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
-      <a href="https://github.com/iannsgirdye"><img src="./images/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
     </p>
   </section>
   <section>
@@ -41,9 +41,9 @@
   <section>
     <h2>Контакты</h2>
     <p aligh="left">
-      <a href="https://t.me/iannsgirdye" target="_blank"><img src="./images/telegram.svg" alt="Telegram" title="Telegram" height="50" width="50"/></a>
+      <a href="https://t.me/iannsgirdye" target="_blank"><img src="./icons/contacts/telegram.svg" alt="Telegram" title="Telegram" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./images/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
+      <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
     </p>
   </section>
 </main>
