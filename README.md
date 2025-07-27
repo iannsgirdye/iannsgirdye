@@ -8,19 +8,21 @@
     <p align="left">
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
+      &nbsp;
+      <a href="https://sass-lang.com/" target="_blank"><img src="./icons/technologies/sass.svg" alt="SASS" title="SASS" height="50" width="50"/></a>
     </p>
   </section>
   <section>
     <h2>Инструменты</h2>
     <p align="left">
-      <a href="https://www.figma.com/"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://git-scm.com/"><img src="./icons/tools/git.svg" alt="Git" title="Git" height="50" width="50"/></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="./icons/tools/git.svg" alt="Git" title="Git" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://github.com"><img src="./icons/tools/github.svg" alt="GitHub" title="GitHub" height="50" width="50"/></a>
+      <a href="https://github.com" target="_blank"><img src="./icons/tools/github.svg" alt="GitHub" title="GitHub" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://gitlab.com/"><img src="./icons/tools/gitlab.svg" alt="GitLab" title="GitLab" height="50" width="50"/></a>
+      <a href="https://gitlab.com/" target="_blank"><img src="./icons/tools/gitlab.svg" alt="GitLab" title="GitLab" height="50" width="50"/></a>
     </p>
   </section>
   <section>
