@@ -98,16 +98,17 @@
     </p>
   </section>
   <br/>
-  <section>
+  <section align="center">
     <h2>Статистика</h2>
+    <div>
+      <img alt="Карточка профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark"/>
+      <img alt="Статистика языков в коммитах" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark"/>
+      <img alt="Статистика языков в репозиториях" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark"/>
+      <img alt="Статистика профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=github_dark"/>
+      <img alt="Данные по коммитам за сутки" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iannsgirdye&theme=github_dark"/>
+    </div>
   </section>
 </main>
-
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark)
-![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark)
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark)
-![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=github_dark)
-![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iannsgirdye&theme=github_dark)
 
 
 <!-- Sources
