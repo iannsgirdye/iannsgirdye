@@ -8,9 +8,9 @@
 </header>
 <br/>
 <main>
-  <section>
+  <section align="center">
     <h2>Технологии</h2>
-    <p align="left">
+    <div>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
       &nbsp;
@@ -19,7 +19,7 @@
       <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/c-programming.svg" alt="C language" title="C" height="50" width="50"/></a>
       &nbsp;
       <a href="https://www.python.org/" target="_blank"><img src="./icons/technologies/python.svg" alt="Python" title="Python" height="50" width="50"/></a>
-    </p>
+    </div>
   </section>
   <br/>
   <section>
