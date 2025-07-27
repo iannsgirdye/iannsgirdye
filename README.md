@@ -38,12 +38,32 @@
     <h2>Репозитории</h2>
     <article>
       <h3>🧸 Собственные проекты</h3>
-      <ul>
-        <li><a href="https://github.com/the-tender-team/tender-parsing">Веб-сервис парсинга и анализа проблемных тендеров на сайтах госзакупок</a></li>
-        <li><a href="https://github.com/iannsgirdye/mai_library">Веб-сервис сборника материалов для всех причастных к МАИ</a></li>
-        <li><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">Веб-сервис бронирования комнат на IT-этаже МАИ</a>
-        <li><a href="https://github.com/iannsgirdye/frontend">Проекты для самообразования по frontend-разработке</li>
-      </ul>
+      <table>
+        <thead>
+          <tr>
+            <th>Проект</th>
+            <th>Описание</th>
+          </tr>  
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/the-tender-team/tender-parsing">Tender Parsing</a></td>
+            <td>Веб-сервис парсинга и анализа проблемных тендеров на сайтах госзакупок</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_library">mai_library</a></td>
+            <td>Веб-сервис сборника материалов для всех причастных к МАИ</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
+            <td>Веб-сервис бронирования комнат на IT-этаже МАИ</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/frontend">frontend</a></td>
+            <td>Самообразование по frontend-разработке</td>
+          </tr>  
+        </tbody>
+      </table>
     </article>
     <article>
       <h3>📖 Образовательные курсы</h3>
