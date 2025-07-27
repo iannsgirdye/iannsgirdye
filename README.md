@@ -1,5 +1,5 @@
 <header>
-  <div align="center"><img src="./banners/mario.gif" alt="" width="1024" height="576"/></div>
+  <div align="center"><img width="700" src="./banners/mario.gif" alt=""/></div>
   <h1 align="center">iannsgirdye</h1>
   <p align="center">Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики</p>
 </header>
