@@ -73,7 +73,7 @@
       <table>
         <thead>
           <tr>
-            <th>Проект</th>
+            <th>Название</th>
             <th>Описание</th>
           </tr>  
         </thead>
