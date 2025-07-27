@@ -5,7 +5,7 @@
 <main>
   <section>
     <h2>Технологии</h2>
-    <p>
+    <p align="left">
       <a href="https://github.com/iannsgirdye"><img src="./images/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./images/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
     </p>
