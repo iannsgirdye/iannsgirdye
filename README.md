@@ -40,6 +40,20 @@
       &nbsp;
       <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/ide/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
     </div>
+    <article>
+      <h3>В планах</h3>
+      <div>
+        <a href="https://vite.dev/" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50" width="50"/></a>
+        &nbsp;
+        <a href="https://react.dev/" target="_blank"><img src="./icons/tools/libraries-frameworks/react.svg" alt="React" title="React" height="50" width="50"/></a>
+        &nbsp;
+        <a href="https://nodejs.org/" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50" width="50"/></a>
+        &nbsp;
+        <a href="https://nextjs.org/" target="_blank"><img src="./icons/tools/libraries-frameworks/next-js.svg" alt="Next.js" title="Next.js" height="50" width="50"/></a>
+        &nbsp;
+        <a href="https://tailwindcss.com/" target="_blank"><img src="./icons/tools/libraries-frameworks/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50" width="50"/></a>
+      </div>
+    </article>
   </section>
   <br/>
   <section>
