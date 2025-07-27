@@ -1,8 +1,12 @@
 <header>
   <div align="center"><img width="700" src="./banners/mario.gif" alt=""/></div>
   <h1 align="center">iannsgirdye</h1>
-  <p align="center">Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики</p>
+  <p align="center">
+    Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики<br/>
+    Развиваюсь во <b>frontend разработке</b>
+  </p>
 </header>
+<br/>
 <main>
   <section>
     <h2>Технологии</h2>
@@ -17,6 +21,7 @@
       <a href="https://www.python.org/" target="_blank"><img src="./icons/technologies/python.svg" alt="Python" title="Python" height="50" width="50"/></a>
     </p>
   </section>
+  <br/>
   <section>
     <h2>Инструменты</h2>
     <p align="left">
@@ -34,6 +39,7 @@
       <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
     </p>
   </section>
+  <br/>
   <section>
     <h2>Репозитории</h2>
     <article>
@@ -82,6 +88,7 @@
       </ul>
     </article>
   </section>
+  <br/>
   <section>
     <h2>Контакты</h2>
     <p aligh="left">
@@ -90,6 +97,7 @@
       <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
     </p>
   </section>
+  <br/>
   <section>
     <h2>Статистика</h2>
   </section>
