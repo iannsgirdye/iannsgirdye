@@ -27,6 +27,10 @@
       <a href="https://github.com" target="_blank"><img src="./icons/tools/github.svg" alt="GitHub" title="GitHub" height="50" width="50"/></a>
       &nbsp;
       <a href="https://gitlab.com/" target="_blank"><img src="./icons/tools/gitlab.svg" alt="GitLab" title="GitLab" height="50" width="50"/></a>
+      &nbsp;
+      <a href="https://www.docker.com/" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50" width="50"/></a>
+      &nbsp;
+      <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
     </p>
   </section>
   <section>
