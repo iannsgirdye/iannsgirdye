@@ -1,14 +1,16 @@
 <header>
-  <div align="center"><img width="700" src="./banners/mario.gif" alt=""/></div>
-  <h1 align="center">iannsgirdye</h1>
-  <p align="center">
-    Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики<br/>
-    Развиваюсь во <b>frontend разработке</b>
-  </p>
+  <div align="center">
+    <img width="700" src="./banners/mario.gif" alt=""/>
+    <h1>iannsgirdye</h1>
+    <p>
+      Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики<br/>
+      Развиваюсь во <b>frontend разработке</b>
+    </p>
+  </div>
 </header>
 <br/>
 <main>
-  <section align="center">
+  <section>
     <h2>Технологии</h2>
     <div>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
@@ -22,7 +24,7 @@
     </div>
   </section>
   <br/>
-  <section align="center">
+  <section>
     <h2>Инструменты</h2>
     <div>
       <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
@@ -41,7 +43,7 @@
   </section>
   <br/>
   <section>
-    <h2 align="center">Репозитории</h2>
+    <h2>Репозитории</h2>
     <article>
       <h3>🧸 Собственные проекты</h3>
       <table>
@@ -89,7 +91,7 @@
     </article>
   </section>
   <br/>
-  <section align="center">
+  <section>
     <h2>Контакты</h2>
     <div>
       <a href="https://t.me/iannsgirdye" target="_blank"><img src="./icons/contacts/telegram.svg" alt="Telegram" title="Telegram" height="50" width="50"/></a>
@@ -98,9 +100,9 @@
     </div>
   </section>
   <br/>
-  <section align="center">
+  <section>
     <h2>Статистика</h2>
-    <div>
+    <div align="center">
       <img alt="Карточка профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в коммитах" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в репозиториях" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark"/>
