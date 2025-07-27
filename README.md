@@ -33,10 +33,10 @@
   </section>
   <section>
     <h2>Контакты</h2>
-    <ul>
-      <li><a href="https://t.me/iannsgirdye">Telegram</a></li>
-      <li><a href="https://vk.com/iannsgirdye">VK</a></li>
-    </ul>
+    <p aligh="left">
+      <a href="https://t.me/iannsgirdye" target="_blank"><img src="./images/telegram.svg" alt="Telegram" title="Telegram" height="50" width="50"/></a>
+      <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./images/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
+    </p>
   </section>
 </main>
 
