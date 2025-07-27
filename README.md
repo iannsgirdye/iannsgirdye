@@ -75,11 +75,11 @@
   </section>
 </main>
 
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=solarized_dark)
-![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=solarized_dark)
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=solarized_dark)
-![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=solarized_dark)
-![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iannsgirdye&theme=solarized_dark)
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark)
+![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark)
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark)
+![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=github_dark)
+![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iannsgirdye&theme=github_dark)
 
 
 <!-- Sources
