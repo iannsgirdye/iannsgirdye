@@ -22,9 +22,9 @@
     </div>
   </section>
   <br/>
-  <section>
+  <section align="center">
     <h2>Инструменты</h2>
-    <p align="left">
+    <div>
       <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50" width="50"/></a>
       &nbsp;
@@ -37,7 +37,7 @@
       <a href="https://www.docker.com/" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50" width="50"/></a>
       &nbsp;
       <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
-    </p>
+    </div>
   </section>
   <br/>
   <section>
