@@ -13,32 +13,32 @@
   <section>
     <h2>Технологии</h2>
     <div>
-      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
-      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://sass-lang.com/" target="_blank"><img src="./icons/technologies/sass.svg" alt="Sass" title="Sass" height="50" width="50"/></a>
+      <a href="https://sass-lang.com/" target="_blank"><img src="./icons/technologies/markup-styles/sass.svg" alt="Sass" title="Sass" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/c-programming.svg" alt="C language" title="C" height="50" width="50"/></a>
+      <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/programming/c.svg" alt="C language" title="C" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://www.python.org/" target="_blank"><img src="./icons/technologies/python.svg" alt="Python" title="Python" height="50" width="50"/></a>
+      <a href="https://www.python.org/" target="_blank"><img src="./icons/technologies/programming/python.svg" alt="Python" title="Python" height="50" width="50"/></a>
     </div>
   </section>
   <br/>
   <section>
     <h2>Инструменты</h2>
     <div>
-      <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
       <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://git-scm.com/" target="_blank"><img src="./icons/tools/git.svg" alt="Git" title="Git" height="50" width="50"/></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="./icons/tools/git/git.svg" alt="Git" title="Git" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://github.com" target="_blank"><img src="./icons/tools/github.svg" alt="GitHub" title="GitHub" height="50" width="50"/></a>
+      <a href="https://github.com" target="_blank"><img src="./icons/tools/git/github.svg" alt="GitHub" title="GitHub" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://gitlab.com/" target="_blank"><img src="./icons/tools/gitlab.svg" alt="GitLab" title="GitLab" height="50" width="50"/></a>
+      <a href="https://gitlab.com/" target="_blank"><img src="./icons/tools/git/gitlab.svg" alt="GitLab" title="GitLab" height="50" width="50"/></a>
       &nbsp;
       <a href="https://www.docker.com/" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50" width="50"/></a>
       &nbsp;
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/ide/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50"/></a>
     </div>
   </section>
   <br/>
