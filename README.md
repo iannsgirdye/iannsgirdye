@@ -69,7 +69,16 @@
       <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50" width="50"/></a>
     </p>
   </section>
+  <section>
+    <h2>Статистика</h2>
+  </section>
 </main>
+
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=solarized_dark)
+![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=solarized_dark)
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=solarized_dark)
+![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=solarized_dark)
+![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iannsgirdye&theme=solarized_dark)
 
 
 <!-- Sources
