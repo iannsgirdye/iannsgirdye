@@ -127,7 +127,6 @@
   <section>
     <h2>Статистика</h2>
     <div align="center">
-      <img alt="Карточка профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в коммитах" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в репозиториях" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=github_dark"/>
