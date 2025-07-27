@@ -1,6 +1,6 @@
 <header>
   <h1 align="center">iannsgirdye</h1>
-  <p align="center">Студент <a href="https://mai.ru">Московского авиационного института</a> факультета компьютерных наук и прикладной математики</p>
+  <p align="center">Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики</p>
 </header>
 <main>
   <section>
