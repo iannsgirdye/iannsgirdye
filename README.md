@@ -88,7 +88,7 @@
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/resonator">Resonator</a></td>
-            <td>Адаптивная вёрстка макета одностраничного сайта</td>
+            <td>Адаптивная вёрстка одностраничного сайта по макету</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
