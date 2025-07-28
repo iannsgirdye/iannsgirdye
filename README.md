@@ -87,6 +87,10 @@
             <td>Веб-сервис сборника материалов для всех причастных к МАИ (в разработке)</td>
           </tr>
           <tr>
+            <td><a href="https://github.com/iannsgirdye/resonator">Resonator</a></td>
+            <td>Адаптивная вёрстка макета одностраничного сайта</td>
+          </tr>
+          <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
             <td>Веб-сервис бронирования комнат на IT-этаже МАИ</td>
           </tr>
