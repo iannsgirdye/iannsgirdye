@@ -84,11 +84,11 @@
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_library">mai_library</a></td>
-            <td>Веб-сервис сборника материалов для всех причастных к МАИ (в разработке)</td>
+            <td>(в процессе) Веб-сервис сборника материалов для всех причастных к МАИ</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/resonator">Resonator</a></td>
-            <td>Адаптивная вёрстка одностраничного сайта по макету</td>
+            <td>(в процессе) Адаптивная вёрстка одностраничного сайта по макету</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
