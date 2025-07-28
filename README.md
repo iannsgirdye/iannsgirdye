@@ -84,16 +84,12 @@
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_library">mai_library</a></td>
-            <td>Веб-сервис сборника материалов для всех причастных к МАИ</td>
+            <td>Веб-сервис сборника материалов для всех причастных к МАИ (в разработке)</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
             <td>Веб-сервис бронирования комнат на IT-этаже МАИ</td>
           </tr>
-          <tr>
-            <td><a href="https://github.com/iannsgirdye/frontend">frontend</a></td>
-            <td>Самообразование по frontend-разработке</td>
-          </tr>  
         </tbody>
       </table>
     </article>
