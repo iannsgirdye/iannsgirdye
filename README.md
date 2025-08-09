@@ -98,6 +98,23 @@
       </table>
     </article>
     <article>
+      <h3>🦐 Форки</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Название</th>
+            <th>Описание</th>
+          </tr>  
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/jstu4">jstu4</a></td>
+            <td>Обновлённое приложение эмулятора машины Тьюринга в четвёрках</td>
+          </tr>
+        </tbody>
+      </table>
+    </article>
+    <article>
       <h3>📖 Образовательные курсы</h3>
       <ul>
         <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
