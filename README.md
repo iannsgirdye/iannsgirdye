@@ -79,21 +79,38 @@
         </thead>
         <tbody>
           <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_library">mai_library</a></td>
+            <td>Веб-сервис сборника материалов для всех причастных к МАИ</td>
+          </tr>
+          <tr>
             <td><a href="https://github.com/the-tender-team/tender-parsing">Tender Parsing</a></td>
             <td>Веб-сервис парсинга и анализа проблемных тендеров на сайтах госзакупок</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/mai_library">mai_library</a></td>
-            <td>Веб-сервис сборника материалов для всех причастных к МАИ</td>
+            <td><a href="https://github.com/iannsgirdye/resonator">Resonator</a></td>
+            <td>(в процессе) Адаптивная вёрстка одностраничного сайта по макету</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
             <td>Веб-сервис бронирования комнат на IT-этаже МАИ</td>
           </tr>
+        </tbody>
+      </table>
+    </article>
+    <article>
+      <h3>🦐 Форки</h3>
+      <table>
+        <thead>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/frontend">frontend</a></td>
-            <td>Самообразование по frontend-разработке</td>
+            <th>Название</th>
+            <th>Описание</th>
           </tr>  
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/jstu4">jstu4</a></td>
+            <td>Обновлённое приложение эмулятора машины Тьюринга в четвёрках</td>
+          </tr>
         </tbody>
       </table>
     </article>
@@ -127,7 +144,6 @@
   <section>
     <h2>Статистика</h2>
     <div align="center">
-      <img alt="Карточка профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в коммитах" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика языков в репозиториях" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannsgirdye&theme=github_dark"/>
       <img alt="Статистика профиля" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannsgirdye&theme=github_dark"/>
