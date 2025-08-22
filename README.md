@@ -14,6 +14,7 @@
     <h2>Технологии</h2>
     <div>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/html.svg" alt="HTML" title="HTML" height="50" width="50"/></a>
+      &nbsp;
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/css.svg" alt="CSS" title="CSS" height="50" width="50"/></a>
       &nbsp;
       <a href="https://sass-lang.com/" target="_blank"><img src="./icons/technologies/markup-styles/sass.svg" alt="Sass" title="Sass" height="50" width="50"/></a>
@@ -28,6 +29,7 @@
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/javascript.svg" alt="JavaScript" title="JavaScript" height="50" width="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/typescript.svg" alt="TypeScript" title="TypeScript" height="50" width="50"/></a>
+        &nbsp;
         <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/programming/cpp.svg" alt="C++" title="C++" height="50" width="50"/></a>
         &nbsp;
       </div>
@@ -38,6 +40,7 @@
     <h2>Инструменты</h2>
     <div>
       <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50" width="50"/></a>
+      &nbsp;
       <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50" width="50"/></a>
       &nbsp;
       <a href="https://git-scm.com/" target="_blank"><img src="./icons/tools/git/git.svg" alt="Git" title="Git" height="50" width="50"/></a>
