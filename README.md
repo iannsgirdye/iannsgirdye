@@ -14,24 +14,23 @@
     <h2>Технологии</h2>
     <div>
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/html.svg" alt="HTML" title="HTML" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/css.svg" alt="CSS" title="CSS" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://sass-lang.com/" target="_blank"><img src="./icons/technologies/markup-styles/sass.svg" alt="Sass" title="Sass" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/programming/c.svg" alt="C language" title="C" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://www.python.org/" target="_blank"><img src="./icons/technologies/programming/python.svg" alt="Python" title="Python" height="50"/></a>
     </div>
     <article>
       <h3>В планах</h3>
       <div>
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/javascript.svg" alt="JavaScript" title="JavaScript" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/typescript.svg" alt="TypeScript" title="TypeScript" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://github.com/iannsgirdye/"><img src="./icons/technologies/programming/cpp.svg" alt="C++" title="C++" height="50"/></a>
-        &nbsp;
       </div>
     </article>
   </section>
@@ -40,30 +39,30 @@
     <h2>Инструменты</h2>
     <div>
       <a href="https://www.figma.com/" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50""/></a>
-      &nbsp;
+      &ensp;
       <a href="https://git-scm.com/" target="_blank"><img src="./icons/tools/git/git.svg" alt="Git" title="Git" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://github.com" target="_blank"><img src="./icons/tools/git/github.svg" alt="GitHub" title="GitHub" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://gitlab.com/" target="_blank"><img src="./icons/tools/git/gitlab.svg" alt="GitLab" title="GitLab" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://www.docker.com/" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://code.visualstudio.com/" target="_blank"><img src="./icons/tools/ide/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50"/></a>
     </div>
     <article>
       <h3>В планах</h3>
       <div>
         <a href="https://vite.dev/" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://react.dev/" target="_blank"><img src="./icons/tools/libraries-frameworks/react.svg" alt="React" title="React" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://nodejs.org/" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://nextjs.org/" target="_blank"><img src="./icons/tools/libraries-frameworks/next-js.svg" alt="Next.js" title="Next.js" height="50"/></a>
-        &nbsp;
+        &ensp;
         <a href="https://tailwindcss.com/" target="_blank"><img src="./icons/tools/libraries-frameworks/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/></a>
       </div>
     </article>
@@ -139,7 +138,7 @@
     <h2>Контакты</h2>
     <div>
       <a href="https://t.me/iannsgirdye" target="_blank"><img src="./icons/contacts/telegram.svg" alt="Telegram" title="Telegram" height="50"/></a>
-      &nbsp;
+      &ensp;
       <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50"/></a>
     </div>
   </section>
