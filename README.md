@@ -117,6 +117,27 @@
       </table>
     </article>
     <article>
+      <h3>🎓 Задания в университете</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Семестры</th>
+            <th>Дисциплина</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>3 и 4</td>
+            <td><a href="https://github.com/iannsgirdye/mai_fundamental-algorithms">Фундаментальные алгоритмы</a></td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td><a href="https://github.com/iannsgirdye/mai_object-oriented-programming">Объектно-ориентированное программирование</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </article>
+    <article>
       <h3>📖 Образовательные курсы</h3>
       <ul>
         <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
