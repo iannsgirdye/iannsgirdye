@@ -134,6 +134,10 @@
             <td>3</td>
             <td><a href="https://github.com/iannsgirdye/mai_object-oriented-programming">Объектно-ориентированное программирование</a></td>
           </tr>
+          <tr>
+            <td>3</td>
+            <td><a href="https://github.com/iannsgirdye/mai_operating-systems">Операционные системы</a></td>
+          </tr>
         </tbody>
       </table>
     </article>
