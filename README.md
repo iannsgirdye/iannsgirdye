@@ -143,12 +143,40 @@
     </article>
     <article>
       <h3>📖 Образовательные курсы</h3>
-      <ul>
-        <li><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python" от "Яндекс Образования"</a></li>
-        <li><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов" от "Яндекс Образования"</a></li>
-        <li><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих" от МФТИ на Stepik</a></li>
-        <li><a href="https://github.com/iannsgirdye/yandex_cpp">Хендбук "Основы C++" от "Яндекс Образования"</a></li>
-      </ul>
+      <table>
+        <thead>
+          <tr>
+            <th>Курс</th>
+            <th>Сервис</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python"</a></td>
+            <td>Яндекс Образование</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов"</a></td></a></td>
+            <td>Яндекс Образование</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих"</a></td>
+            <td>МФТИ на Stepik</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/yandex_cpp">Хендбук "Основы C++"</a></td>
+            <td>Яндекс Образование</td>
+          </tr>
+          <tr>
+            <td>Базовый HTML</td>
+            <td>VK Education</td>
+          </tr>
+          <tr>
+            <td>Базовый CSS</td>
+            <td>VK Education</td>
+          </tr>
+        </tbody>
+      </table>
     </article>
     <article>
       <h3>🔥 Нарешивание заданий</h3>
