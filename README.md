@@ -48,8 +48,6 @@
       &ensp;
       <a href="https://gitlab.com" target="_blank"><img src="./icons/tools/git/gitlab.svg" alt="GitLab" title="GitLab" height="50"/></a>
       &ensp;
-      <a href="https://www.docker.com" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50"/></a>
-      &ensp;
       <a href="https://code.visualstudio.com" target="_blank"><img src="./icons/tools/ide/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50"/></a>
     </div>
     <article>
@@ -64,6 +62,8 @@
         <a href="https://nextjs.org" target="_blank"><img src="./icons/tools/libraries-frameworks/next-js.svg" alt="Next.js" title="Next.js" height="50"/></a>
         &ensp;
         <a href="https://tailwindcss.com" target="_blank"><img src="./icons/tools/libraries-frameworks/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/></a>
+        &ensp;
+        <a href="https://www.docker.com" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50"/></a>
       </div>
     </article>
   </section>
