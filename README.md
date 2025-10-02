@@ -53,9 +53,9 @@
     <article>
       <h3>В планах</h3>
       <div>
-        <a href="https://vite.dev" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50"/></a>
-        &ensp;
         <a href="https://react.dev" target="_blank"><img src="./icons/tools/libraries-frameworks/react.svg" alt="React" title="React" height="50"/></a>
+        &ensp;
+        <a href="https://vite.dev" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50"/></a>
         &ensp;
         <a href="https://nodejs.org" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50"/></a>
         &ensp;
