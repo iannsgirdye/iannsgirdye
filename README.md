@@ -179,6 +179,10 @@
             <td>Базовый CSS</td>
             <td>VK Education</td>
           </tr>
+          <tr>
+            <td>Фронтенд-разработка</td>
+            <td>VK Education</td>
+          </tr>
         </tbody>
       </table>
     </article>
