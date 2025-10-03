@@ -151,7 +151,7 @@
         <thead>
           <tr>
             <th>Курс</th>
-            <th>Сервис</th>
+            <th>Организация</th>
           </tr>
         </thead>
         <tbody>
