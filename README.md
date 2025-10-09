@@ -180,6 +180,10 @@
             <td>VK Education</td>
           </tr>
           <tr>
+            <td><a href="https://github.com/iannsgirdye/lamkov_javascript">Базовый JavaScript</a></td>
+            <td>Friendly Frontend</td>
+          </tr>
+          <tr>
             <td>Фронтенд-разработка</td>
             <td>VK Education</td>
           </tr>
