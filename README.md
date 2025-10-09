@@ -156,19 +156,19 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/yandex_python">Хендбук "Основы Python"</a></td>
+            <td><a href="https://github.com/iannsgirdye/yandex_python">Основы Python</a></td>
             <td>Яндекс Образование</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/yandex_algorithms">Хендбук "Основы алгоритмов"</a></td></a></td>
+            <td><a href="https://github.com/iannsgirdye/yandex_algorithms">Основы алгоритмов</a></td>
             <td>Яндекс Образование</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">Курс "C для начинающих"</a></td>
+            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">C для начинающих</a></td>
             <td>МФТИ на Stepik</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/yandex_cpp">Хендбук "Основы C++"</a></td>
+            <td><a href="https://github.com/iannsgirdye/yandex_cpp">Основы C++</a></td>
             <td>Яндекс Образование</td>
           </tr>
           <tr>
@@ -184,7 +184,7 @@
             <td>Friendly Frontend</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Курс "Изучаем JavaScript"</a></td>
+            <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Изучаем JavaScript</a></td>
             <td>Stepik</td>
           </tr>
           <tr>
