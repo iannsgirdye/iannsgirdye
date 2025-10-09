@@ -184,6 +184,10 @@
             <td>Friendly Frontend</td>
           </tr>
           <tr>
+            <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Курс "Изучаем JavaScript"</a></td>
+            <td>Stepik</td>
+          </tr>
+          <tr>
             <td>Фронтенд-разработка</td>
             <td>VK Education</td>
           </tr>
