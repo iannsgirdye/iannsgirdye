@@ -20,6 +20,8 @@
         &nbsp;
         <a href="https://sass-lang.com" target="_blank"><img src="./icons/technologies/markup-styles/sass.svg" alt="Sass" title="Sass" height="50"/></a>
         &nbsp;
+        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/javascript.svg" alt="JavaScript" title="JavaScript" height="50"/></a>
+        &nbsp;
         <a href="https://www.python.org" target="_blank"><img src="./icons/technologies/programming/python.svg" alt="Python" title="Python" height="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/c.svg" alt="C language" title="C" height="50"/></a>
@@ -30,8 +32,6 @@
     <article>
       <h3>В планах</h3>
       <div>
-        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/javascript.svg" alt="JavaScript" title="JavaScript" height="50"/></a>
-        &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/typescript.svg" alt="TypeScript" title="TypeScript" height="50"/></a>
       </div>
     </article>
