@@ -185,7 +185,7 @@
           </tr>
           <tr>
             <td rowspan="2">Stepik</td>
-            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">C для начинающих (от МФТИ)</a></td>
+            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">C для начинающих</a> (от МФТИ)</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Изучаем JavaScript</a></td>
