@@ -166,6 +166,10 @@
             <td><a href="https://github.com/iannsgirdye/yandex_cpp">Основы C++</a></td>
           </tr>
           <tr>
+            <td>Яндекс Практикум</td>
+            <td><a href="https://github.com/iannsgirdye/yandex_frontend">Frontend-разработчик</a></td>
+          </tr>
+          <tr>
             <td rowspan="3">VK Education</td>
             <td>Базовый HTML</td>
           </tr>
