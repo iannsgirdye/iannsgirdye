@@ -150,46 +150,41 @@
       <table>
         <thead>
           <tr>
+            <th>Платформа</th>
             <th>Курс</th>
-            <th>Организация</th>
           </tr>
         </thead>
         <tbody>
           <tr>
+            <td rowspan="3">Яндекс Образование</td>
             <td><a href="https://github.com/iannsgirdye/yandex_python">Основы Python</a></td>
-            <td>Яндекс Образование</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/yandex_algorithms">Основы алгоритмов</a></td>
-            <td>Яндекс Образование</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">C для начинающих</a></td>
-            <td>МФТИ на Stepik</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/yandex_cpp">Основы C++</a></td>
-            <td>Яндекс Образование</td>
           </tr>
           <tr>
+            <td rowspan="3">VK Education</td>
             <td>Базовый HTML</td>
-            <td>VK Education</td>
           </tr>
           <tr>
             <td>Базовый CSS</td>
-            <td>VK Education</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/iannsgirdye/lamkov_javascript">Базовый JavaScript</a></td>
-            <td>Friendly Frontend</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Изучаем JavaScript</a></td>
-            <td>Stepik</td>
           </tr>
           <tr>
             <td>Фронтенд-разработка</td>
-            <td>VK Education</td>
+          </tr>
+          <tr>
+            <td>Friendly Frontend</td>
+            <td><a href="https://github.com/iannsgirdye/lamkov_javascript">Базовый JavaScript</a></td>
+          </tr>
+          <tr>
+            <td rowspan="2">Stepik</td>
+            <td><a href="https://github.com/iannsgirdye/stepik_mfti-c">C для начинающих (МФТИ)</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/stepik_learn-javascript">Изучаем JavaScript</a></td>
           </tr>
         </tbody>
       </table>
