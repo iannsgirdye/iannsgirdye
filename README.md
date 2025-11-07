@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img width="700" src="./banners/mario.gif" alt=""/>
+    <img src="./banners/mario.gif" alt=""/>
     <h1>Ivan Babitskiy</h1>
     <p>
       Студент <a href="https://mai.ru" target="_blank">Московского авиационного института</a> факультета компьютерных наук и прикладной математики<br/>
