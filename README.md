@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img src="./banners/mario.gif" alt=""/>
+    <a href="https://github.com/iannsgirdye"><img src="./banners/mario.gif" alt="Mario use computer and drink cola"/></a>
     <h1>Ivan Babitskiy</h1>
     <p>
       Студент факультета "Компьютерные науки и прикладная математика" <a href="https://mai.ru" target="_blank">Московского авиационного института</a><br/>
