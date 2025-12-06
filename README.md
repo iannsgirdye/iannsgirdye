@@ -12,7 +12,7 @@
 <main>
   <section>
     <h2>Технологии</h2>
-    <article>
+    <div>
       <div>
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/markup-styles/html.svg" alt="HTML" title="HTML" height="50"/></a>
         &nbsp;
@@ -26,20 +26,20 @@
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/cpp.svg" alt="C++" title="C++" height="50"/></a>
       </div>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>В планах</h3>
       <div>
         <a href="https://sass-lang.com" target="_blank"><img src="./icons/technologies/markup-styles/sass.svg" alt="Sass" title="Sass" height="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/typescript.svg" alt="TypeScript" title="TypeScript" height="50"/></a>
       </div>
-    </article>
+    </div>
   </section>
   <br/>
   <section>
     <h2>Инструменты</h2>
-    <article>
+    <div>
       <div>
         <a href="https://www.figma.com" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50"/></a>
         &nbsp;
@@ -53,8 +53,8 @@
         &nbsp;
         <a href="https://code.visualstudio.com" target="_blank"><img src="./icons/tools/ide/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50"/></a>
       </div>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>В планах</h3>
       <div>
         <a href="https://react.dev" target="_blank"><img src="./icons/tools/libraries-frameworks/react.svg" alt="React" title="React" height="50"/></a>
@@ -69,12 +69,12 @@
         &nbsp;
         <a href="https://www.docker.com" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50"/></a>
       </div>
-    </article>
+    </div>
   </section>
   <br/>
   <section>
     <h2>Деятельность</h2>
-    <article>
+    <div>
       <h3>🧸 Собственные проекты</h3>
       <table>
         <thead>
@@ -102,8 +102,8 @@
           </tr>
         </tbody>
       </table>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>🦐 Форки</h3>
       <table>
         <thead>
@@ -119,8 +119,8 @@
           </tr>
         </tbody>
       </table>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>🎓 Курсы в университете</h3>
       <table>
         <thead>
@@ -144,8 +144,8 @@
           </tr>
         </tbody>
       </table>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>📖 Курсы для самообразования</h3>
       <table>
         <thead>
@@ -192,14 +192,14 @@
           </tr>
         </tbody>
       </table>
-    </article>
-    <article>
+    </div>
+    <div>
       <h3>🔥 Нарешивание заданий</h3>
       <ul>
         <li><a href="https://github.com/iannsgirdye/leetcode">LeetCode</a></li>
         <li><a href="https://github.com/iannsgirdye/yandex_coderun">Coderun</a></li>
       </ul>
-    </article>
+    </div>
   </section>
   <br/>
   <section>
