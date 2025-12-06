@@ -156,7 +156,7 @@
         </thead>
         <tbody>
           <tr>
-            <td rowspan="3">Яндекс Образование</td>
+            <td rowspan="4">Яндекс Образование</td>
             <td><a href="https://github.com/iannsgirdye/yandex_python">Основы Python</a></td>
           </tr>
           <tr>
@@ -164,6 +164,9 @@
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/yandex_cpp">Основы C++</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/yandex_computer-science">Основы компьютерных наук</a></td>
           </tr>
           <tr>
             <td>Яндекс Практикум</td>
