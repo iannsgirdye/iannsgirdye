@@ -179,9 +179,9 @@
           <tr>
             <td>Base of CSS</td>
           </tr>
-          <tr>
+          <!-- <tr>
             <td>Frontend development</td>
-          </tr>
+          </tr> -->
           <tr>
             <td>Friendly Frontend</td>
             <td><a href="https://github.com/iannsgirdye/lamkov_javascript">Base of JavaScript</a></td>
