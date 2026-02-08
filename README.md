@@ -173,7 +173,7 @@
             <td><a href="https://github.com/iannsgirdye/yandex_frontend">Frontend developer</a></td>
           </tr>
           <tr>
-            <td rowspan="3">VK Education</td>
+            <td rowspan="2">VK Education</td>
             <td>Base of HTML</td>
           </tr>
           <tr>
