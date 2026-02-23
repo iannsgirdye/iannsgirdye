@@ -125,22 +125,27 @@
       <table>
         <thead>
           <tr>
-            <th>Semesters</th>
+            <th>Semester</th>
             <th>Subject</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>3 and 4</td>
+            <td rowspan="3">3</td>
             <td><a href="https://github.com/iannsgirdye/mai_fundamental-algorithms">Fundamental algorithms</a></td>
           </tr>
           <tr>
-            <td>3</td>
             <td><a href="https://github.com/iannsgirdye/mai_object-oriented-programming">Object oriented programming</a></td>
           </tr>
           <tr>
-            <td>3</td>
             <td><a href="https://github.com/iannsgirdye/mai_operating-systems">Operating systems</a></td>
+          </tr>
+          <tr>
+            <td rowspan="2">4</td>
+            <td><a href="https://github.com/iannsgirdye/mai_fundamental-algorithms_2">Fundamental algorithms</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_system-programming">System programming</a></td>
           </tr>
         </tbody>
       </table>
