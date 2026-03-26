@@ -97,6 +97,10 @@
             <td>Адаптивная вёрстка одностраничного сайта по макету</td>
           </tr> -->
           <tr>
+            <td><a href="https://github.com/iannsgirdye/yandex_frontend">(projects from "Yandex Practicum")</a></td>
+            <td>Some web services at course "Frontend developer"</td>
+          </tr>
+          <tr>
             <td><a href="https://github.com/iannsgirdye/mai_booking-auditoriums">mai_booking-auditoriums</a></td>
             <td>Web service for booking rooms in the MAI IT-zone</td>
           </tr>
