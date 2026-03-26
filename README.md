@@ -41,6 +41,10 @@
     <h2>Tools</h2>
     <div>
       <div>
+        <a href="https://vite.dev" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50"/></a>
+        &nbsp;
+        <a href="https://nodejs.org" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50"/></a>
+        &nbsp;
         <a href="https://www.figma.com" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50""/></a>
@@ -59,14 +63,10 @@
       <div>
         <a href="https://react.dev" target="_blank"><img src="./icons/tools/libraries-frameworks/react.svg" alt="React" title="React" height="50"/></a>
         &nbsp;
-        <a href="https://vite.dev" target="_blank"><img src="./icons/tools/vite.svg" alt="Vite" title="Vite" height="50"/></a>
-        &nbsp;
-        <a href="https://nodejs.org" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50"/></a>
-        &nbsp;
         <a href="https://nextjs.org" target="_blank"><img src="./icons/tools/libraries-frameworks/next-js.svg" alt="Next.js" title="Next.js" height="50"/></a>
         &nbsp;
-        <a href="https://tailwindcss.com" target="_blank"><img src="./icons/tools/libraries-frameworks/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/></a>
-        &nbsp;
+        <!-- <a href="https://tailwindcss.com" target="_blank"><img src="./icons/tools/libraries-frameworks/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/></a>
+        &nbsp; -->
         <a href="https://www.docker.com" target="_blank"><img src="./icons/tools/docker.svg" alt="Docker" title="Docker" height="50"/></a>
       </div>
     </div>
