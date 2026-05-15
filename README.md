@@ -235,7 +235,7 @@
     </div>
   </section>
   <br/>
-  <section>
+  <!-- <section>
     <h2>Contacts</h2>
     <div>
       <a href="https://t.me/iannsgirdye" target="_blank"><img src="./icons/contacts/telegram.svg" alt="Telegram" title="Telegram" height="50"/></a>
@@ -243,7 +243,7 @@
       <a href="https://vk.com/iannsgirdye" target="_blank"><img src="./icons/contacts/vk.svg" alt="VK" title="VK" height="50"/></a>
     </div>
   </section>
-  <br/>
+  <br/> -->
   <section>
     <h2>Statistics</h2>
     <div align="center">
