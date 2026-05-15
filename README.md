@@ -226,13 +226,13 @@
         </tbody>
       </table>
     </div>
-    <div>
+    <!-- <div>
       <h3>🔥 Solve problems</h3>
       <ul>
         <li><a href="https://github.com/iannsgirdye/leetcode">LeetCode</a></li>
         <li><a href="https://github.com/iannsgirdye/yandex_coderun">Coderun</a></li>
       </ul>
-    </div>
+    </div> -->
   </section>
   <br/>
   <!-- <section>
