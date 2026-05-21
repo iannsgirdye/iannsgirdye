@@ -24,7 +24,7 @@
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/typescript.svg" alt="TypeScript" title="TypeScript" height="50"/></a>
         &nbsp;
-        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/c.svg" alt="C language" title="C" height="50"/></a>
+        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/c.svg" alt="C" title="C" height="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/сpp.svg" alt="C++" title="C++" height="50"/></a>
         &nbsp;
