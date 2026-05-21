@@ -26,9 +26,9 @@
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/c.svg" alt="C" title="C" height="50"/></a>
         &nbsp;
-        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/сpp.svg" alt="C++" title="C++" height="50"/></a>
+        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/cpp.svg" alt="C++" title="C++" height="50"/></a>
         &nbsp;
-        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/сsharp.svg" alt="C#" title="C#" height="50"/></a>
+        <a href="https://github.com/iannsgirdye"><img src="./icons/technologies/programming/csharp.svg" alt="C#" title="C#" height="50"/></a>
         <!-- &nbsp; -->
         <!-- <a href="https://www.python.org" target="_blank"><img src="./icons/technologies/programming/python.svg" alt="Python" title="Python" height="50"/></a> -->
       </div>
