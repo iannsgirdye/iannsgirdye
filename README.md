@@ -48,6 +48,8 @@
         &nbsp;
         <a href="https://nodejs.org" target="_blank"><img src="./icons/tools/node-js.svg" alt="Node.js" title="Node.js" height="50"/></a>
         &nbsp;
+        <a href="https://nodejs.org" target="_blank"><img src="./icons/tools/npm.svg" alt="NPM" title="NPM" height="50"/></a>
+        &nbsp;
         <a href="https://www.figma.com" target="_blank"><img src="./icons/tools/design/figma.svg" alt="Figma" title="Figma" height="50"/></a>
         &nbsp;
         <a href="https://github.com/iannsgirdye"><img src="./icons/tools/bash.svg" alt="Bash" title="Bash" height="50""/></a>
