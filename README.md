@@ -179,7 +179,7 @@
           </tr>
           <tr>
             <td rowspan="2">5</td>
-            <td><a href="https://github.com/iannsgirdye/mai_numerical-methonds">Numerical methods</a></td>
+            <td><a href="https://github.com/iannsgirdye/mai_numerical-methods">Numerical methods</a></td>
             <td></td>
           </tr>
           <tr>
