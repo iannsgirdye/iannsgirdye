@@ -178,12 +178,24 @@
             <td>C++</td>
           </tr>
           <tr>
-            <td rowspan="2">5</td>
-            <td><a href="https://github.com/iannsgirdye/mai_numerical-methods">Numerical methods</a></td>
+            <td rowspan="5">5</td>
+            <td><a href="https://github.com/iannsgirdye/mai_basics-of-cryptography">Basics of cryptography</a></td>
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/iannsgirdye/mai_basics-of-cryptography">Basics of cryptography</a></td>
+            <td>Computer graphics</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Databases</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Machine learning concepts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_numerical-methods">Numerical methods</a></td>
             <td></td>
           </tr>
         </tbody>
