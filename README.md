@@ -177,6 +177,15 @@
             <td><a href="https://github.com/iannsgirdye/mai_system-programming">System programming</a></td>
             <td>C++</td>
           </tr>
+          <tr>
+            <td rowspan="2">5</td>
+            <td><a href="https://github.com/iannsgirdye/mai_numerical-methonds">Numerical methods</a></td>
+            <td>C#</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/iannsgirdye/mai_basics-of-cryptography">Basics of cryptography</a></td>
+            <td>C++</td>
+          </tr>
         </tbody>
       </table>
     </div>
