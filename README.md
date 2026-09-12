@@ -180,11 +180,11 @@
           <tr>
             <td rowspan="2">5</td>
             <td><a href="https://github.com/iannsgirdye/mai_numerical-methonds">Numerical methods</a></td>
-            <td>C#</td>
+            <td></td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_basics-of-cryptography">Basics of cryptography</a></td>
-            <td>C++</td>
+            <td></td>
           </tr>
         </tbody>
       </table>
