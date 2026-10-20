@@ -180,23 +180,23 @@
           <tr>
             <td rowspan="5">5</td>
             <td><a href="https://github.com/iannsgirdye/mai_basics-of-cryptography">Basics of cryptography</a></td>
-            <td></td>
+            <td>C#</td>
           </tr>
           <tr>
             <td>Computer graphics</td>
-            <td></td>
+            <td>C++</td>
           </tr>
           <tr>
             <td>Databases</td>
-            <td></td>
+            <td>SQL</td>
           </tr>
           <tr>
             <td>Machine learning concepts</td>
-            <td></td>
+            <td>Python</td>
           </tr>
           <tr>
             <td><a href="https://github.com/iannsgirdye/mai_numerical-methods">Numerical methods</a></td>
-            <td></td>
+            <td>Python</td>
           </tr>
         </tbody>
       </table>
