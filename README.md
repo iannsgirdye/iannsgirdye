@@ -187,7 +187,7 @@
             <td>C++</td>
           </tr>
           <tr>
-            <td>Databases</td>
+            <td><a href="https://github.com/iannsgirdye/mai_databases">Databases</a></td>
             <td>SQL</td>
           </tr>
           <tr>
