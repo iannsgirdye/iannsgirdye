@@ -4,7 +4,7 @@
     <h1>Ivan Babitskiy</h1>
     <p>
       Student of the faculty "Computer science and applied mathematics" at <a href="https://mai.ru" target="_blank">Moscow aviation institute</a><br/>
-      Develop in <b>frontend development</b>
+      <!-- Develop in <b>frontend development</b> -->
     </p>
   </div>
 </header>
