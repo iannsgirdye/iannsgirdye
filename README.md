@@ -183,7 +183,7 @@
             <td>C#</td>
           </tr>
           <tr>
-            <td>Computer graphics</td>
+            <td><a href="https://github.com/iannsgirdye/mai_computer-graphics">Computer graphics</a></td>
             <td>C++</td>
           </tr>
           <tr>
@@ -191,7 +191,7 @@
             <td>SQL</td>
           </tr>
           <tr>
-            <td>Machine learning concepts</td>
+            <td><a href="https://github.com/iannsgirdye/mai_machine-learning-concepts">Machine learning concepts</a></td>
             <td>Python</td>
           </tr>
           <tr>
